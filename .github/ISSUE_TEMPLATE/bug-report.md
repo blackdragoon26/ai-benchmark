@@ -20,8 +20,9 @@ labels: bug
 - Whether execution is local, Docker-based, or a Kubernetes Job
 - Relevant TensorFlow device-discovery output
 - Relevant, time-bounded job event and pod log excerpts, if applicable
+- Relevant, time-bounded sanitized Kubernetes Job manifest sections, if applicable
 
-Before posting, include only relevant, time-bounded excerpts and remove or mask credentials, tokens, private keys, certificates, device identifiers, node or host names, workload identifiers, and internal image names.
+Before posting, include only relevant, time-bounded excerpts and remove or mask credentials, tokens, private keys, certificates, device identifiers, node or host names, workload identifiers, dataset paths, and internal image names.
 
 **Environment**:
 - ai-benchmark version or commit:

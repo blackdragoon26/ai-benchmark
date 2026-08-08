@@ -8,7 +8,7 @@ labels: question
 
 **What have you already tried or investigated?**:
 
-Before posting, include only relevant, time-bounded excerpts and remove or mask credentials, tokens, private keys, certificates, device identifiers, node or host names, workload identifiers, and internal image names.
+Before posting, include only relevant, time-bounded excerpts and remove or mask credentials, tokens, private keys, certificates, device identifiers, node or host names, workload identifiers, dataset paths, and internal image names.
 
 **Environment**:
 - ai-benchmark version or commit:
